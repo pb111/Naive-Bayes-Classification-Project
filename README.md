@@ -1,2 +1,2 @@
-# Naive-Bayes-Classification-Project
-Naive Bayes Classification in Python Project
+# Naive Bayes Classification with Python and Scikit-Learn
+
