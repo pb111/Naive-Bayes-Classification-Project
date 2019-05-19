@@ -45,9 +45,12 @@ Bayes’ theorem is a very important theorem in the field of probability and sta
 of an event based on prior knowledge of conditions that might be related to the event.
 Bayes’ theorem is stated mathematically as the following equation -
 
-# D – Bayes’ theorem
+
+![Bayes’ theorem](https://github.com/pb111/Naive-Bayes-Classification-Project/blob/master/Images/Bayes'%20theorem.png)
+
 
 where A and B are events and P (B) ≠ 0.
+
 
 **Terminology regarding Bayes’ theorem**
 
