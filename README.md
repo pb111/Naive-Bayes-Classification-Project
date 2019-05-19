@@ -128,7 +128,7 @@ These 3 types of algorithm are explained below.
 When we have continuous attribute values, we made an assumption that the values associated with each class are distributed according to Gaussian or Normal distribution. For example, suppose the training data contains a continuous attribute x. We first segment the data by the class, and then compute the mean and variance of x in each class. Let µi be the mean of the values and let σi be the variance of the values associated with the ith class. Suppose we have some observation value xi . Then, the probability distribution of xi given a class can be computed by the following equation –
 
 
-# D – Gaussian Naïve Bayes
+![Gaussian Naïve Bayes Classifier](https://github.com/pb111/Naive-Bayes-Classification-Project/blob/master/Images/Gaussian%20Naive%20Bayes%20classifier.png)
 
 
 ### Multinomial Naïve Bayes algorithm
