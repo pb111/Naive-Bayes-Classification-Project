@@ -15,9 +15,9 @@ I have categorized this project into various sections which are listed below:-
 3.	Class and conditional probabilities
 4.	Naïve Bayes algorithm intuition
 5.	Types of Naïve Bayes algorithm
-   -	Gaussian Naïve Bayes algorithm
-   -	Multinomial Naïve Bayes algorithm
-   -	Bernoulli Naïve Bayes algorithm
+       -	Gaussian Naïve Bayes algorithm
+       -	Multinomial Naïve Bayes algorithm
+       -	Bernoulli Naïve Bayes algorithm
 6.	Advantages and disadvantages of Naïve Bayes algorithm
 7.	The problem statement
 8.	Results and conclusion
