@@ -1,6 +1,6 @@
 # Naïve Bayes Classifier with Python and Scikit-Learn
 
-In this project, I build a Naïve Bayes Classifier to predict whether a person makes over 50K in a year. I implement Naive Bayes Classification with Python and Scikit-Learn. The problem is to predict whether a person makes over 50K in a year. To answer the question, I build a Naive Bayes classifier to predict the income of the person. I have used the **census income** data set for this project, downloaded from the UCI Machine Learning Repository website.
+In this project, I build a Naïve Bayes Classifier to predict whether a person makes over 50K in a year. I implement Naive Bayes Classification with Python and Scikit-Learn. The problem is to predict whether a person makes over 50K in a year. To answer the question, I build a Naive Bayes classifier to predict the income of the person. I have used the **Adult Data Set** for this project, downloaded from the UCI Machine Learning Repository website.
 
 
 ===============================================================================
@@ -167,11 +167,13 @@ The disadvantages of Naïve Bayes algorithm are as follows:-
 ## 7. The problem statement
 
 
-In this project, I try to make predictions where the prediction task is to determine whether a person makes over 50K a year. I implement Naive Bayes Classification with Python and Scikit-Learn. 
+In this project, I try to make predictions where the prediction task is to determine whether a person makes over 50K a year. 
+I implement Naive Bayes Classification with Python and Scikit-Learn. 
 
 
 To answer the question, I build a Naive Bayes classifier to predict whether a person makes over 50K a year.
-I have used the **Census income** data set for this project. I have downloaded this dataset from the UCI Machine Learning Repository website. 
+I have used the **Adult Data Set** for this project. I have downloaded this dataset from the UCI Machine Learning Repository 
+website. 
 
 
 The data set can be found at the following url:-
