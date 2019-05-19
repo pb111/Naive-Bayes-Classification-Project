@@ -25,6 +25,7 @@ I have categorized this project into various sections which are listed below:-
 10.	References
 
 
+===============================================================================
 
 
 ## 1. Introduction to Naïve Bayes Classification algorithm
@@ -32,6 +33,10 @@ I have categorized this project into various sections which are listed below:-
 In machine learning, Naïve Bayes classification is a straightforward and powerful algorithm for the classification task. Naïve Bayes classification is based on applying Bayes’ theorem with strong independence assumption between the features.  Naïve Bayes classification produces good results when we use it for textual data analysis such as Natural Language Processing.
 Naïve Bayes models are also known as `simple Bayes` or `independent Bayes`. All these names refer to the application of Bayes’ theorem in the classifier’s decision rule.  
 Naïve Bayes classifier applies the Bayes’ theorem in practice. This classifier brings the power of Bayes’ theorem to machine learning. So, to understand the Naïve Bayes classifier we need to understand the Bayes’ theorem. So, I will discuss the Bayes’ theorem in next section.
+
+
+===============================================================================
+
 
 ## 2. Bayes theorem
 
@@ -53,6 +58,7 @@ where A and B are events and P (B) ≠ 0.
 -	P (A) and P (B) are the probabilities of observing A and B independently of each other. This is also known as the marginal or prior probability.
 
 
+===============================================================================
 
 
 ## 3. Class and Conditional Probabilities
@@ -60,6 +66,8 @@ where A and B are events and P (B) ≠ 0.
 In the Bayes’ theorem, P (A) represents the probabilities of each event. In the Naïve Bayes Classifier, we can interpret these as `Class Probabilities`. It is simply the frequency of each instance of the event divided by the total number of instances.
 In the theorem, P (A | B) represents the conditional probabilities of an event A given another event B has already occurred. In the Naïve Bayes Classifier, it means the posterior probability of A occurring when B is true.
 
+
+===============================================================================
 
 
 ## 4. Naïve Bayes Classifier intuition
@@ -78,7 +86,7 @@ Naïve Bayes Classifier assumes that all the features are unrelated to each othe
 In real world datasets, we test a hypothesis given multiple evidence on features. So, the calculations become quite complicated. To simplify the work, the feature independence approach is used to uncouple multiple evidence and treat each as an independent one.
 
 
-
+===============================================================================
 
 
 ## 5. Types of Naïve Bayes algorithm
@@ -99,6 +107,8 @@ With a Multinomial Naïve Bayes model, samples (feature vectors) represent the f
 In the multivariate Bernoulli event model, features are independent boolean variables (binary variables) describing inputs. Just like the multinomial model, this model is also popular for document classification tasks where binary term occurrence features are used rather than term frequencies.
 
 
+===============================================================================
+
 
 ## 6. Advantages and disadvantages of Naïve Bayes algorithm
 The advantages of Naïve Bayes algorithm are as follows:-
@@ -112,6 +122,8 @@ The disadvantages of Naïve Bayes algorithm are as follows:-
 2.	Naïve Bayes algorithm works well when we have simple categories. But, it does not work well when the relationship between words is important.
 
 
+===============================================================================
+
 
 ## 7. The problem statement
 In this project, I try to make predictions where the prediction task is to determine whether a person makes over 50K a year. I implement Naive Bayes Classification with Python and Scikit-Learn. 
@@ -119,14 +131,19 @@ To answer the question, I build a Naive Bayes classifier to predict whether a pe
 I have used the **Census income** data set for this project. I have downloaded this dataset from the UCI Machine Learning Repository website. The data set can be found at the following url:-
 https://archive.ics.uci.edu/ml/datasets/Adult
 
+
+===============================================================================
+
+
 ## 8. Results and conclusion
 
 
-
-
+===============================================================================
 
 
 ## 9. Applications of Naïve Bayes classification
+
+
 Naïve Bayes is one of the most straightforward and fast classification algorithm. It is very well suited for large volume of data. It is successfully used in various applications such as 
 
 1.	Spam filtering
@@ -134,6 +151,9 @@ Naïve Bayes is one of the most straightforward and fast classification algorith
 3.	Sentiment analysis
 4.	Recommender systems
 It uses Bayes theorem of probability for prediction of unknown class.
+
+===============================================================================
+
 
 ## 10. References
 
