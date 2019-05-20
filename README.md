@@ -33,7 +33,7 @@ I have categorized this project into various sections which are listed below:-
 In machine learning, Naïve Bayes classification is a straightforward and powerful algorithm for the classification task. Naïve Bayes classification is based on applying Bayes’ theorem with strong independence assumption between the features.  Naïve Bayes classification produces good results when we use it for textual data analysis such as Natural Language Processing.
 
 
-Naïve Bayes models are also known as `simple Bayes` or `independent Bayes`. All these names refer to the application of Bayes’ theorem in the classifier’s decision rule. Naïve Bayes classifier applies the Bayes’ theorem in practice. This classifier brings the power of Bayes’ theorem to machine learning. So, to understand the Naïve Bayes classifier we need to understand the Bayes’ theorem. So, I will discuss the Bayes’ theorem in next section.
+Naïve Bayes models are also known as `simple Bayes` or `independent Bayes`. All these names refer to the application of Bayes’ theorem in the classifier’s decision rule. Naïve Bayes classifier applies the Bayes’ theorem in practice. This classifier brings the power of Bayes’ theorem to machine learning. So, to understand the Naïve Bayes classifier we need to understand the `Bayes’ theorem`. So, I will discuss the `Bayes’ theorem` in next section.
 
 
 ===============================================================================
